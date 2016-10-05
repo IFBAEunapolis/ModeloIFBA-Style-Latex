@@ -1,2 +1,3 @@
-# latex_model
-Modelo para provas no Latex
+# ModeloIFBA.sty
+
+Modelo para provas do IFBA Eunápolis usando Latex
